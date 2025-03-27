@@ -1,6 +1,6 @@
 # 🌟 Vishnu Vardhan's Portfolio
 
-🚀 **Live Demo:** [Visit My Portfolio](https://vishnunaniinfo.github.io/My-portfolio/)
+🚀 **Live Demo:** [Visit My Portfolio](https://vishnunaniinfo.github.io/vishnunani_portfolio/)
 
 Welcome to my **personal portfolio** showcasing my skills, projects, and achievements in **AI, Cybersecurity, Full-Stack Development, and Cloud Technologies**.
 
